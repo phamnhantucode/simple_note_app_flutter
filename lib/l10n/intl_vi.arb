@@ -1,0 +1,12 @@
+{ 
+    "my_title": "Tiêu đề",
+    "notes_title": "{count, plural, =0{Chưa có ghi nhớ nào} =1{1 ghi nhớ} other{{count} ghi nhớ}}",
+    "@notes_title": {
+        "placeholders": {
+            "count": {
+                "type": "int",
+                "example": "3 ghi nhớ"
+            }
+        }
+    }
+}

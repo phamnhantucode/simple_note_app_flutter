@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858360232413",
+    "project_id": "mynotesbeginer",
+    "storage_bucket": "mynotesbeginer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858360232413:android:ddb6210f16eeb7c93d1e34",
+        "android_client_info": {
+          "package_name": "com.phamnhantucode.mynotesbeginer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858360232413-p2aa5lantpn7ch9f88c53a6ms2rnf453.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUputo6_lkrj_DF0-Uc2jOWIAG3BfLkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858360232413-p2aa5lantpn7ch9f88c53a6ms2rnf453.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
